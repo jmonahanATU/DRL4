@@ -14,6 +14,7 @@ function Create() {
 
         // Log the values of title, cover, and author to the console when the form is submitted.
         console.log("Title:" + title + " Cover:" + cover + " Author:" + author);
+        
     }
 
     // Render the component's UI.
